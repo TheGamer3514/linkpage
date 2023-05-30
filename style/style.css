@@ -16,7 +16,7 @@ main {
 
 body {
   background-color: #8465b3;
-  background: url("../img/bg.webp") no-repeat center / cover;
+  background: url("../img/bg.jpg") no-repeat center / cover;
   background-attachment: fixed;
   image-rendering: pixelated;
   image-rendering: -webkit-crisp-edges;
