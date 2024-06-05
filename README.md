@@ -1,3 +1,6 @@
+A page used for my personal domains. Will get a rewrite soon
+
+
 ## Resources
 
 - [Discord server](https://discord.gg/sillydev)
